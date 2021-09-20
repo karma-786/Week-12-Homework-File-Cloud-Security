@@ -44,3 +44,13 @@ Use a free account at [draw.io](https://app.diagrams.net/) to diagram the entire
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+---
+
+## Week 12 Homework Solution: Cloud Security
+
+Refer to the following solution files for the homework worksheets: 
+
+* [Cloud Security](/Week_12-Homework_Cloud_Security.pdf)  
+
+---
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
